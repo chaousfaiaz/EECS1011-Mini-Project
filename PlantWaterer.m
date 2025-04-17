@@ -1,6 +1,4 @@
-% % EECS 1011 
-% Jonah Ottini 
-% 12/07/2021
+% % EECS 1011 MD FAIAZ APRIL 17 2025
 
 %Create Arduono variable 
 clear all; close all;
